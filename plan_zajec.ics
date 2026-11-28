@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Film roczny - egzamin - ETAP KOŃCOWY (dr Maciej Ślesicki)
 DTSTART;TZID=Europe/Warsaw:20261126T110000
 DTEND;TZID=Europe/Warsaw:20261126T160000
-UID:202611261100-4421@szkolafilmowa
+UID:202611261100-63652@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Maciej Ślesicki
 LOCATION:KINO
 END:VEVENT
@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:Film roczny - egzamin - ETAP KOŃCOWY (dr Maciej Ślesicki)
 DTSTART;TZID=Europe/Warsaw:20261125T110000
 DTEND;TZID=Europe/Warsaw:20261125T160000
-UID:202611251100-4421@szkolafilmowa
+UID:202611251100-63652@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Maciej Ślesicki
 LOCATION:KINO
 END:VEVENT
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Film roczny - egzamin - ETAP KOŃCOWY (dr Maciej Ślesicki)
 DTSTART;TZID=Europe/Warsaw:20261124T110000
 DTEND;TZID=Europe/Warsaw:20261124T160000
-UID:202611241100-4421@szkolafilmowa
+UID:202611241100-63652@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Maciej Ślesicki
 LOCATION:KINO
 END:VEVENT
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Film roczny - egzamin - ETAP KOŃCOWY (dr Maciej Ślesicki)
 DTSTART;TZID=Europe/Warsaw:20261123T110000
 DTEND;TZID=Europe/Warsaw:20261123T160000
-UID:202611231100-4421@szkolafilmowa
+UID:202611231100-63652@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Maciej Ślesicki
 LOCATION:KINO
 END:VEVENT
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:Podstawy rachunkowości (mgr Dominika Bielec)
 DTSTART;TZID=Europe/Warsaw:20261202T104500
 DTEND;TZID=Europe/Warsaw:20261202T121500
-UID:202612021045-13363@szkolafilmowa
+UID:202612021045-35513@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Dominika Bielec
 LOCATION:W1
 END:VEVENT
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:Podstawy rachunkowości (mgr Dominika Bielec)
 DTSTART;TZID=Europe/Warsaw:20261202T090000
 DTEND;TZID=Europe/Warsaw:20261202T103000
-UID:202612020900-13363@szkolafilmowa
+UID:202612020900-35513@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Dominika Bielec
 LOCATION:W1
 END:VEVENT
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:WF (lic. Łukasz Sip)
 DTSTART;TZID=Europe/Warsaw:20261202T170000
 DTEND;TZID=Europe/Warsaw:20261202T190000
-UID:202612021700-8296@szkolafilmowa
+UID:202612021700-90819@szkolafilmowa
 DESCRIPTION:Prowadzący: lic. Łukasz Sip
 LOCATION:P
 END:VEVENT
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:Reżyseria filmowa  - jak to jest zrobione? (... ...)
 DTSTART;TZID=Europe/Warsaw:20261204T170000
 DTEND;TZID=Europe/Warsaw:20261204T200000
-UID:202612041700-46885@szkolafilmowa
+UID:202612041700-59143@szkolafilmowa
 DESCRIPTION:Prowadzący: ... ...
 LOCATION:KINO
 END:VEVENT
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Analiza produkcyjna etiud studenckich (Stanisław Krzemiński)
 DTSTART;TZID=Europe/Warsaw:20261201T140000
 DTEND;TZID=Europe/Warsaw:20261201T153000
-UID:202612011400-24773@szkolafilmowa
+UID:202612011400-59114@szkolafilmowa
 DESCRIPTION:Prowadzący: Stanisław Krzemiński
 LOCATION:W6
 END:VEVENT
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Analiza produkcyjna etiud studenckich (Stanisław Krzemiński)
 DTSTART;TZID=Europe/Warsaw:20261201T154500
 DTEND;TZID=Europe/Warsaw:20261201T171500
-UID:202612011545-24773@szkolafilmowa
+UID:202612011545-59114@szkolafilmowa
 DESCRIPTION:Prowadzący: Stanisław Krzemiński
 LOCATION:W6
 END:VEVENT
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:Oblicza polskiego kina (dr Katarzyna Bałdyga)
 DTSTART;TZID=Europe/Warsaw:20261201T121500
 DTEND;TZID=Europe/Warsaw:20261201T134500
-UID:202612011215-8130@szkolafilmowa
+UID:202612011215-75824@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Katarzyna Bałdyga
 LOCATION:K1
 END:VEVENT
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:Oblicza polskiego kina (dr Katarzyna Bałdyga)
 DTSTART;TZID=Europe/Warsaw:20261201T103000
 DTEND;TZID=Europe/Warsaw:20261201T120000
-UID:202612011030-8130@szkolafilmowa
+UID:202612011030-75824@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Katarzyna Bałdyga
 LOCATION:K1
 END:VEVENT
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Analiza techniczna filmu (dr hab. Katarzyna Taras)
 DTSTART;TZID=Europe/Warsaw:20261130T180000
 DTEND;TZID=Europe/Warsaw:20261130T193000
-UID:202611301800-79522@szkolafilmowa
+UID:202611301800-62561@szkolafilmowa
 DESCRIPTION:Prowadzący: dr hab. Katarzyna Taras
 LOCATION:K1
 END:VEVENT
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:Analiza techniczna filmu (dr hab. Katarzyna Taras)
 DTSTART;TZID=Europe/Warsaw:20261130T161500
 DTEND;TZID=Europe/Warsaw:20261130T174500
-UID:202611301615-79522@szkolafilmowa
+UID:202611301615-62561@szkolafilmowa
 DESCRIPTION:Prowadzący: dr hab. Katarzyna Taras
 LOCATION:K1
 END:VEVENT
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:Język angielski (mgr Beata Palka)
 DTSTART;TZID=Europe/Warsaw:20261204T090000
 DTEND;TZID=Europe/Warsaw:20261204T111500
-UID:202612040900-53021@szkolafilmowa
+UID:202612040900-13117@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Beata Palka
 LOCATION:W6
 END:VEVENT
@@ -129,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:Historia powszechna kina (dr Robert Wichrowski)
 DTSTART;TZID=Europe/Warsaw:20261130T141500
 DTEND;TZID=Europe/Warsaw:20261130T154500
-UID:202611301415-68206@szkolafilmowa
+UID:202611301415-86098@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Robert Wichrowski
 LOCATION:KINO
 END:VEVENT
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Historia powszechna kina (dr Robert Wichrowski)
 DTSTART;TZID=Europe/Warsaw:20261130T123000
 DTEND;TZID=Europe/Warsaw:20261130T140000
-UID:202611301230-68206@szkolafilmowa
+UID:202611301230-86098@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Robert Wichrowski
 LOCATION:KINO
 END:VEVENT
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:Historia powszechna kina (dr Robert Wichrowski)
 DTSTART;TZID=Europe/Warsaw:20261130T104500
 DTEND;TZID=Europe/Warsaw:20261130T121500
-UID:202611301045-68206@szkolafilmowa
+UID:202611301045-86098@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Robert Wichrowski
 LOCATION:KINO
 END:VEVENT
@@ -153,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:Historia powszechna kina (dr Robert Wichrowski)
 DTSTART;TZID=Europe/Warsaw:20261130T090000
 DTEND;TZID=Europe/Warsaw:20261130T103000
-UID:202611300900-68206@szkolafilmowa
+UID:202611300900-86098@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Robert Wichrowski
 LOCATION:KINO
 END:VEVENT
@@ -162,7 +162,7 @@ SUMMARY:Planowanie produkcji: analiza kosztorysu i budżetu filmu (mgr Kam
  il Przełęcki)
 DTSTART;TZID=Europe/Warsaw:20261203T123000
 DTEND;TZID=Europe/Warsaw:20261203T140000
-UID:202612031230-71336@szkolafilmowa
+UID:202612031230-15920@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Kamil Przełęcki
 LOCATION:W9
 END:VEVENT
@@ -171,7 +171,7 @@ SUMMARY:Planowanie produkcji: analiza kosztorysu i budżetu filmu (mgr Kam
  il Przełęcki)
 DTSTART;TZID=Europe/Warsaw:20261203T141500
 DTEND;TZID=Europe/Warsaw:20261203T154500
-UID:202612031415-71336@szkolafilmowa
+UID:202612031415-15920@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Kamil Przełęcki
 LOCATION:W9
 END:VEVENT
@@ -180,7 +180,7 @@ SUMMARY:Planowanie produkcji: analiza kosztorysu i budżetu filmu (mgr Kam
  il Przełęcki)
 DTSTART;TZID=Europe/Warsaw:20261203T104500
 DTEND;TZID=Europe/Warsaw:20261203T121500
-UID:202612031045-71336@szkolafilmowa
+UID:202612031045-15920@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Kamil Przełęcki
 LOCATION:W9
 END:VEVENT
@@ -189,7 +189,7 @@ SUMMARY:Planowanie produkcji: analiza kosztorysu i budżetu filmu (mgr Kam
  il Przełęcki)
 DTSTART;TZID=Europe/Warsaw:20261203T090000
 DTEND;TZID=Europe/Warsaw:20261203T103000
-UID:202612030900-71336@szkolafilmowa
+UID:202612030900-15920@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Kamil Przełęcki
 LOCATION:W9
 END:VEVENT
@@ -197,7 +197,7 @@ BEGIN:VEVENT
 SUMMARY:Podstawy rachunkowości (mgr Dominika Bielec)
 DTSTART;TZID=Europe/Warsaw:20261209T104500
 DTEND;TZID=Europe/Warsaw:20261209T121500
-UID:202612091045-13363@szkolafilmowa
+UID:202612091045-35513@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Dominika Bielec
 LOCATION:W1
 END:VEVENT
@@ -205,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:Podstawy rachunkowości (mgr Dominika Bielec)
 DTSTART;TZID=Europe/Warsaw:20261209T090000
 DTEND;TZID=Europe/Warsaw:20261209T103000
-UID:202612090900-13363@szkolafilmowa
+UID:202612090900-35513@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Dominika Bielec
 LOCATION:W1
 END:VEVENT
@@ -213,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:Kultura wizualna (mgr Lena Pierga)
 DTSTART;TZID=Europe/Warsaw:20261207T091500
 DTEND;TZID=Europe/Warsaw:20261207T113000
-UID:202612070915-52803@szkolafilmowa
+UID:202612070915-9375@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Lena Pierga
 LOCATION:KINO
 END:VEVENT
@@ -221,7 +221,7 @@ BEGIN:VEVENT
 SUMMARY:Oblicza polskiego kina (dr Katarzyna Bałdyga)
 DTSTART;TZID=Europe/Warsaw:20261208T103000
 DTEND;TZID=Europe/Warsaw:20261208T120000
-UID:202612081030-8130@szkolafilmowa
+UID:202612081030-75824@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Katarzyna Bałdyga
 LOCATION:K1
 END:VEVENT
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:Oblicza polskiego kina (dr Katarzyna Bałdyga)
 DTSTART;TZID=Europe/Warsaw:20261208T121500
 DTEND;TZID=Europe/Warsaw:20261208T134500
-UID:202612081215-8130@szkolafilmowa
+UID:202612081215-75824@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Katarzyna Bałdyga
 LOCATION:K1
 END:VEVENT
@@ -237,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:Analiza techniczna filmu (dr hab. Katarzyna Taras)
 DTSTART;TZID=Europe/Warsaw:20261207T150000
 DTEND;TZID=Europe/Warsaw:20261207T180000
-UID:202612071500-79522@szkolafilmowa
+UID:202612071500-62561@szkolafilmowa
 DESCRIPTION:Prowadzący: dr hab. Katarzyna Taras
 LOCATION:K1
 END:VEVENT
@@ -245,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:Historia powszechna kina (dr Robert Wichrowski)
 DTSTART;TZID=Europe/Warsaw:20261207T114500
 DTEND;TZID=Europe/Warsaw:20261207T144500
-UID:202612071145-68206@szkolafilmowa
+UID:202612071145-86098@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Robert Wichrowski
 LOCATION:KINO
 END:VEVENT
@@ -253,7 +253,7 @@ BEGIN:VEVENT
 SUMMARY:Podstawy rachunkowości (mgr Dominika Bielec)
 DTSTART;TZID=Europe/Warsaw:20261216T090000
 DTEND;TZID=Europe/Warsaw:20261216T103000
-UID:202612160900-13363@szkolafilmowa
+UID:202612160900-35513@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Dominika Bielec
 LOCATION:W2
 END:VEVENT
@@ -261,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:Podstawy rachunkowości (mgr Dominika Bielec)
 DTSTART;TZID=Europe/Warsaw:20261216T104500
 DTEND;TZID=Europe/Warsaw:20261216T121500
-UID:202612161045-13363@szkolafilmowa
+UID:202612161045-35513@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Dominika Bielec
 LOCATION:W2
 END:VEVENT
@@ -269,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:WF (lic. Łukasz Sip)
 DTSTART;TZID=Europe/Warsaw:20261216T170000
 DTEND;TZID=Europe/Warsaw:20261216T190000
-UID:202612161700-8296@szkolafilmowa
+UID:202612161700-90819@szkolafilmowa
 DESCRIPTION:Prowadzący: lic. Łukasz Sip
 LOCATION:P
 END:VEVENT
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:Kultura wizualna (mgr Lena Pierga)
 DTSTART;TZID=Europe/Warsaw:20261214T100000
 DTEND;TZID=Europe/Warsaw:20261214T121500
-UID:202612141000-52803@szkolafilmowa
+UID:202612141000-9375@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Lena Pierga
 LOCATION:KINO
 END:VEVENT
@@ -285,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:Reżyseria filmowa  - jak to jest zrobione? (... ...)
 DTSTART;TZID=Europe/Warsaw:20261218T170000
 DTEND;TZID=Europe/Warsaw:20261218T200000
-UID:202612181700-46885@szkolafilmowa
+UID:202612181700-59143@szkolafilmowa
 DESCRIPTION:Prowadzący: ... ...
 LOCATION:KINO
 END:VEVENT
@@ -293,7 +293,7 @@ BEGIN:VEVENT
 SUMMARY:Oblicza polskiego kina (dr Katarzyna Bałdyga)
 DTSTART;TZID=Europe/Warsaw:20261215T121500
 DTEND;TZID=Europe/Warsaw:20261215T134500
-UID:202612151215-8130@szkolafilmowa
+UID:202612151215-75824@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Katarzyna Bałdyga
 LOCATION:K2
 END:VEVENT
@@ -301,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:Oblicza polskiego kina (dr Katarzyna Bałdyga)
 DTSTART;TZID=Europe/Warsaw:20261215T103000
 DTEND;TZID=Europe/Warsaw:20261215T120000
-UID:202612151030-8130@szkolafilmowa
+UID:202612151030-75824@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Katarzyna Bałdyga
 LOCATION:K2
 END:VEVENT
@@ -309,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:Analiza techniczna filmu (dr hab. Katarzyna Taras)
 DTSTART;TZID=Europe/Warsaw:20261214T180000
 DTEND;TZID=Europe/Warsaw:20261214T193000
-UID:202612141800-79522@szkolafilmowa
+UID:202612141800-62561@szkolafilmowa
 DESCRIPTION:Prowadzący: dr hab. Katarzyna Taras
 LOCATION:K2
 END:VEVENT
@@ -317,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:Analiza techniczna filmu (dr hab. Katarzyna Taras)
 DTSTART;TZID=Europe/Warsaw:20261214T161500
 DTEND;TZID=Europe/Warsaw:20261214T174500
-UID:202612141615-79522@szkolafilmowa
+UID:202612141615-62561@szkolafilmowa
 DESCRIPTION:Prowadzący: dr hab. Katarzyna Taras
 LOCATION:K2
 END:VEVENT
@@ -325,7 +325,7 @@ BEGIN:VEVENT
 SUMMARY:Kulturoznawstwo (Katarzyna Czajka-Kominiarczuk)
 DTSTART;TZID=Europe/Warsaw:20261215T173000
 DTEND;TZID=Europe/Warsaw:20261215T194500
-UID:202612151730-33258@szkolafilmowa
+UID:202612151730-55170@szkolafilmowa
 DESCRIPTION:Prowadzący: Katarzyna Czajka-Kominiarczuk
 LOCATION:K2
 END:VEVENT
@@ -333,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:Język angielski (mgr Beata Palka)
 DTSTART;TZID=Europe/Warsaw:20261218T090000
 DTEND;TZID=Europe/Warsaw:20261218T111500
-UID:202612180900-53021@szkolafilmowa
+UID:202612180900-13117@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Beata Palka
 LOCATION:W6
 END:VEVENT
@@ -341,7 +341,7 @@ BEGIN:VEVENT
 SUMMARY:Historia powszechna kina (dr Robert Wichrowski)
 DTSTART;TZID=Europe/Warsaw:20261214T141500
 DTEND;TZID=Europe/Warsaw:20261214T154500
-UID:202612141415-68206@szkolafilmowa
+UID:202612141415-86098@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Robert Wichrowski
 LOCATION:KINO
 END:VEVENT
@@ -349,7 +349,7 @@ BEGIN:VEVENT
 SUMMARY:Historia powszechna kina (dr Robert Wichrowski)
 DTSTART;TZID=Europe/Warsaw:20261214T123000
 DTEND;TZID=Europe/Warsaw:20261214T140000
-UID:202612141230-68206@szkolafilmowa
+UID:202612141230-86098@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Robert Wichrowski
 LOCATION:KINO
 END:VEVENT
@@ -358,7 +358,7 @@ SUMMARY:Planowanie produkcji: analiza kosztorysu i budżetu filmu (mgr Kam
  il Przełęcki)
 DTSTART;TZID=Europe/Warsaw:20261217T170000
 DTEND;TZID=Europe/Warsaw:20261217T183000
-UID:202612171700-71336@szkolafilmowa
+UID:202612171700-15920@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Kamil Przełęcki
 LOCATION:W9
 END:VEVENT
@@ -367,7 +367,7 @@ SUMMARY:Planowanie produkcji: analiza kosztorysu i budżetu filmu (mgr Kam
  il Przełęcki)
 DTSTART;TZID=Europe/Warsaw:20261217T184500
 DTEND;TZID=Europe/Warsaw:20261217T201500
-UID:202612171845-71336@szkolafilmowa
+UID:202612171845-15920@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Kamil Przełęcki
 LOCATION:W9
 END:VEVENT
@@ -376,7 +376,7 @@ SUMMARY:Planowanie produkcji: analiza kosztorysu i budżetu filmu (mgr Kam
  il Przełęcki)
 DTSTART;TZID=Europe/Warsaw:20261217T151500
 DTEND;TZID=Europe/Warsaw:20261217T164500
-UID:202612171515-71336@szkolafilmowa
+UID:202612171515-15920@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Kamil Przełęcki
 LOCATION:W9
 END:VEVENT
@@ -384,7 +384,7 @@ BEGIN:VEVENT
 SUMMARY:WF (lic. Łukasz Sip)
 DTSTART;TZID=Europe/Warsaw:20270107T183000
 DTEND;TZID=Europe/Warsaw:20270107T203000
-UID:202701071830-8296@szkolafilmowa
+UID:202701071830-90819@szkolafilmowa
 DESCRIPTION:Prowadzący: lic. Łukasz Sip
 LOCATION:P
 END:VEVENT
@@ -392,7 +392,7 @@ BEGIN:VEVENT
 SUMMARY:Reżyseria filmowa  - jak to jest zrobione? (... ...)
 DTSTART;TZID=Europe/Warsaw:20270108T170000
 DTEND;TZID=Europe/Warsaw:20270108T200000
-UID:202701081700-46885@szkolafilmowa
+UID:202701081700-59143@szkolafilmowa
 DESCRIPTION:Prowadzący: ... ...
 LOCATION:KINO
 END:VEVENT
@@ -400,7 +400,7 @@ BEGIN:VEVENT
 SUMMARY:Oblicza polskiego kina (dr Katarzyna Bałdyga)
 DTSTART;TZID=Europe/Warsaw:20270105T151500
 DTEND;TZID=Europe/Warsaw:20270105T164500
-UID:202701051515-8130@szkolafilmowa
+UID:202701051515-75824@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Katarzyna Bałdyga
 LOCATION:K1
 END:VEVENT
@@ -408,7 +408,7 @@ BEGIN:VEVENT
 SUMMARY:Oblicza polskiego kina (dr Katarzyna Bałdyga)
 DTSTART;TZID=Europe/Warsaw:20270105T133000
 DTEND;TZID=Europe/Warsaw:20270105T150000
-UID:202701051330-8130@szkolafilmowa
+UID:202701051330-75824@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Katarzyna Bałdyga
 LOCATION:K1
 END:VEVENT
@@ -416,7 +416,7 @@ BEGIN:VEVENT
 SUMMARY:Analiza techniczna filmu (dr hab. Katarzyna Taras)
 DTSTART;TZID=Europe/Warsaw:20270105T184500
 DTEND;TZID=Europe/Warsaw:20270105T201500
-UID:202701051845-79522@szkolafilmowa
+UID:202701051845-62561@szkolafilmowa
 DESCRIPTION:Prowadzący: dr hab. Katarzyna Taras
 LOCATION:K1
 END:VEVENT
@@ -424,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:Analiza techniczna filmu (dr hab. Katarzyna Taras)
 DTSTART;TZID=Europe/Warsaw:20270105T170000
 DTEND;TZID=Europe/Warsaw:20270105T183000
-UID:202701051700-79522@szkolafilmowa
+UID:202701051700-62561@szkolafilmowa
 DESCRIPTION:Prowadzący: dr hab. Katarzyna Taras
 LOCATION:K1
 END:VEVENT
@@ -432,7 +432,7 @@ BEGIN:VEVENT
 SUMMARY:Język angielski (mgr Beata Palka)
 DTSTART;TZID=Europe/Warsaw:20270108T090000
 DTEND;TZID=Europe/Warsaw:20270108T111500
-UID:202701080900-53021@szkolafilmowa
+UID:202701080900-13117@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Beata Palka
 LOCATION:W6
 END:VEVENT
@@ -441,7 +441,7 @@ SUMMARY:Planowanie produkcji: analiza kosztorysu i budżetu filmu (mgr Kam
  il Przełęcki)
 DTSTART;TZID=Europe/Warsaw:20270107T141500
 DTEND;TZID=Europe/Warsaw:20270107T154500
-UID:202701071415-71336@szkolafilmowa
+UID:202701071415-15920@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Kamil Przełęcki
 LOCATION:W9
 END:VEVENT
@@ -450,7 +450,7 @@ SUMMARY:Planowanie produkcji: analiza kosztorysu i budżetu filmu (mgr Kam
  il Przełęcki)
 DTSTART;TZID=Europe/Warsaw:20270107T123000
 DTEND;TZID=Europe/Warsaw:20270107T140000
-UID:202701071230-71336@szkolafilmowa
+UID:202701071230-15920@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Kamil Przełęcki
 LOCATION:W9
 END:VEVENT
@@ -459,7 +459,7 @@ SUMMARY:Planowanie produkcji: analiza kosztorysu i budżetu filmu (mgr Kam
  il Przełęcki)
 DTSTART;TZID=Europe/Warsaw:20270107T090000
 DTEND;TZID=Europe/Warsaw:20270107T103000
-UID:202701070900-71336@szkolafilmowa
+UID:202701070900-15920@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Kamil Przełęcki
 LOCATION:W9
 END:VEVENT
@@ -468,7 +468,7 @@ SUMMARY:Planowanie produkcji: analiza kosztorysu i budżetu filmu (mgr Kam
  il Przełęcki)
 DTSTART;TZID=Europe/Warsaw:20270107T104500
 DTEND;TZID=Europe/Warsaw:20270107T121500
-UID:202701071045-71336@szkolafilmowa
+UID:202701071045-15920@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Kamil Przełęcki
 LOCATION:W9
 END:VEVENT
@@ -476,7 +476,7 @@ BEGIN:VEVENT
 SUMMARY:Podstawy rachunkowości (mgr Dominika Bielec)
 DTSTART;TZID=Europe/Warsaw:20270113T104500
 DTEND;TZID=Europe/Warsaw:20270113T121500
-UID:202701131045-13363@szkolafilmowa
+UID:202701131045-35513@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Dominika Bielec
 LOCATION:W1
 END:VEVENT
@@ -484,7 +484,7 @@ BEGIN:VEVENT
 SUMMARY:Podstawy rachunkowości (mgr Dominika Bielec)
 DTSTART;TZID=Europe/Warsaw:20270113T090000
 DTEND;TZID=Europe/Warsaw:20270113T103000
-UID:202701130900-13363@szkolafilmowa
+UID:202701130900-35513@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Dominika Bielec
 LOCATION:W1
 END:VEVENT
@@ -492,7 +492,7 @@ BEGIN:VEVENT
 SUMMARY:WF (lic. Łukasz Sip)
 DTSTART;TZID=Europe/Warsaw:20270114T183000
 DTEND;TZID=Europe/Warsaw:20270114T203000
-UID:202701141830-8296@szkolafilmowa
+UID:202701141830-90819@szkolafilmowa
 DESCRIPTION:Prowadzący: lic. Łukasz Sip
 LOCATION:P
 END:VEVENT
@@ -500,7 +500,7 @@ BEGIN:VEVENT
 SUMMARY:Kultura wizualna (mgr Lena Pierga)
 DTSTART;TZID=Europe/Warsaw:20270111T100000
 DTEND;TZID=Europe/Warsaw:20270111T121500
-UID:202701111000-52803@szkolafilmowa
+UID:202701111000-9375@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Lena Pierga
 LOCATION:KINO
 END:VEVENT
@@ -508,7 +508,7 @@ BEGIN:VEVENT
 SUMMARY:Analiza produkcyjna etiud studenckich (Stanisław Krzemiński)
 DTSTART;TZID=Europe/Warsaw:20270112T154500
 DTEND;TZID=Europe/Warsaw:20270112T171500
-UID:202701121545-24773@szkolafilmowa
+UID:202701121545-59114@szkolafilmowa
 DESCRIPTION:Prowadzący: Stanisław Krzemiński
 LOCATION:K2
 END:VEVENT
@@ -516,7 +516,7 @@ BEGIN:VEVENT
 SUMMARY:Analiza produkcyjna etiud studenckich (Stanisław Krzemiński)
 DTSTART;TZID=Europe/Warsaw:20270112T140000
 DTEND;TZID=Europe/Warsaw:20270112T153000
-UID:202701121400-24773@szkolafilmowa
+UID:202701121400-59114@szkolafilmowa
 DESCRIPTION:Prowadzący: Stanisław Krzemiński
 LOCATION:K2
 END:VEVENT
@@ -524,7 +524,7 @@ BEGIN:VEVENT
 SUMMARY:Oblicza polskiego kina (dr Katarzyna Bałdyga)
 DTSTART;TZID=Europe/Warsaw:20270112T121500
 DTEND;TZID=Europe/Warsaw:20270112T134500
-UID:202701121215-8130@szkolafilmowa
+UID:202701121215-75824@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Katarzyna Bałdyga
 LOCATION:K1
 END:VEVENT
@@ -532,7 +532,7 @@ BEGIN:VEVENT
 SUMMARY:Oblicza polskiego kina (dr Katarzyna Bałdyga)
 DTSTART;TZID=Europe/Warsaw:20270112T103000
 DTEND;TZID=Europe/Warsaw:20270112T120000
-UID:202701121030-8130@szkolafilmowa
+UID:202701121030-75824@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Katarzyna Bałdyga
 LOCATION:K1
 END:VEVENT
@@ -540,7 +540,7 @@ BEGIN:VEVENT
 SUMMARY:Analiza techniczna filmu (dr hab. Katarzyna Taras)
 DTSTART;TZID=Europe/Warsaw:20270111T180000
 DTEND;TZID=Europe/Warsaw:20270111T193000
-UID:202701111800-79522@szkolafilmowa
+UID:202701111800-62561@szkolafilmowa
 DESCRIPTION:Prowadzący: dr hab. Katarzyna Taras
 LOCATION:K1
 END:VEVENT
@@ -548,7 +548,7 @@ BEGIN:VEVENT
 SUMMARY:Analiza techniczna filmu (dr hab. Katarzyna Taras)
 DTSTART;TZID=Europe/Warsaw:20270111T161500
 DTEND;TZID=Europe/Warsaw:20270111T174500
-UID:202701111615-79522@szkolafilmowa
+UID:202701111615-62561@szkolafilmowa
 DESCRIPTION:Prowadzący: dr hab. Katarzyna Taras
 LOCATION:K1
 END:VEVENT
@@ -556,7 +556,7 @@ BEGIN:VEVENT
 SUMMARY:Kulturoznawstwo (Katarzyna Czajka-Kominiarczuk)
 DTSTART;TZID=Europe/Warsaw:20270112T173000
 DTEND;TZID=Europe/Warsaw:20270112T194500
-UID:202701121730-33258@szkolafilmowa
+UID:202701121730-55170@szkolafilmowa
 DESCRIPTION:Prowadzący: Katarzyna Czajka-Kominiarczuk
 LOCATION:K2
 END:VEVENT
@@ -564,7 +564,7 @@ BEGIN:VEVENT
 SUMMARY:Historia powszechna kina (dr Robert Wichrowski)
 DTSTART;TZID=Europe/Warsaw:20270111T141500
 DTEND;TZID=Europe/Warsaw:20270111T154500
-UID:202701111415-68206@szkolafilmowa
+UID:202701111415-86098@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Robert Wichrowski
 LOCATION:KINO
 END:VEVENT
@@ -572,7 +572,7 @@ BEGIN:VEVENT
 SUMMARY:Historia powszechna kina (dr Robert Wichrowski)
 DTSTART;TZID=Europe/Warsaw:20270111T123000
 DTEND;TZID=Europe/Warsaw:20270111T140000
-UID:202701111230-68206@szkolafilmowa
+UID:202701111230-86098@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Robert Wichrowski
 LOCATION:KINO
 END:VEVENT
@@ -581,7 +581,7 @@ SUMMARY:Planowanie produkcji: analiza kosztorysu i budżetu filmu (mgr Kam
  il Przełęcki)
 DTSTART;TZID=Europe/Warsaw:20270114T141500
 DTEND;TZID=Europe/Warsaw:20270114T154500
-UID:202701141415-71336@szkolafilmowa
+UID:202701141415-15920@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Kamil Przełęcki
 LOCATION:W9
 END:VEVENT
@@ -590,7 +590,7 @@ SUMMARY:Planowanie produkcji: analiza kosztorysu i budżetu filmu (mgr Kam
  il Przełęcki)
 DTSTART;TZID=Europe/Warsaw:20270114T123000
 DTEND;TZID=Europe/Warsaw:20270114T140000
-UID:202701141230-71336@szkolafilmowa
+UID:202701141230-15920@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Kamil Przełęcki
 LOCATION:W9
 END:VEVENT
@@ -599,7 +599,7 @@ SUMMARY:Planowanie produkcji: analiza kosztorysu i budżetu filmu (mgr Kam
  il Przełęcki)
 DTSTART;TZID=Europe/Warsaw:20270114T104500
 DTEND;TZID=Europe/Warsaw:20270114T121500
-UID:202701141045-71336@szkolafilmowa
+UID:202701141045-15920@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Kamil Przełęcki
 LOCATION:W9
 END:VEVENT
@@ -608,7 +608,7 @@ SUMMARY:Planowanie produkcji: analiza kosztorysu i budżetu filmu (mgr Kam
  il Przełęcki)
 DTSTART;TZID=Europe/Warsaw:20270114T090000
 DTEND;TZID=Europe/Warsaw:20270114T103000
-UID:202701140900-71336@szkolafilmowa
+UID:202701140900-15920@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Kamil Przełęcki
 LOCATION:W9
 END:VEVENT
@@ -616,7 +616,7 @@ BEGIN:VEVENT
 SUMMARY:Podstawy rachunkowości (mgr Dominika Bielec)
 DTSTART;TZID=Europe/Warsaw:20270120T104500
 DTEND;TZID=Europe/Warsaw:20270120T121500
-UID:202701201045-13363@szkolafilmowa
+UID:202701201045-35513@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Dominika Bielec
 LOCATION:W1
 END:VEVENT
@@ -624,7 +624,7 @@ BEGIN:VEVENT
 SUMMARY:Podstawy rachunkowości (mgr Dominika Bielec)
 DTSTART;TZID=Europe/Warsaw:20270120T090000
 DTEND;TZID=Europe/Warsaw:20270120T103000
-UID:202701200900-13363@szkolafilmowa
+UID:202701200900-35513@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Dominika Bielec
 LOCATION:W1
 END:VEVENT
@@ -632,7 +632,7 @@ BEGIN:VEVENT
 SUMMARY:WF (lic. Łukasz Sip)
 DTSTART;TZID=Europe/Warsaw:20270120T170000
 DTEND;TZID=Europe/Warsaw:20270120T190000
-UID:202701201700-8296@szkolafilmowa
+UID:202701201700-90819@szkolafilmowa
 DESCRIPTION:Prowadzący: lic. Łukasz Sip
 LOCATION:P
 END:VEVENT
@@ -640,7 +640,7 @@ BEGIN:VEVENT
 SUMMARY:Kultura wizualna (mgr Lena Pierga)
 DTSTART;TZID=Europe/Warsaw:20270118T100000
 DTEND;TZID=Europe/Warsaw:20270118T121500
-UID:202701181000-52803@szkolafilmowa
+UID:202701181000-9375@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Lena Pierga
 LOCATION:KINO
 END:VEVENT
@@ -648,7 +648,7 @@ BEGIN:VEVENT
 SUMMARY:Reżyseria filmowa  - jak to jest zrobione? (... ...)
 DTSTART;TZID=Europe/Warsaw:20270122T170000
 DTEND;TZID=Europe/Warsaw:20270122T200000
-UID:202701221700-46885@szkolafilmowa
+UID:202701221700-59143@szkolafilmowa
 DESCRIPTION:Prowadzący: ... ...
 LOCATION:KINO
 END:VEVENT
@@ -656,7 +656,7 @@ BEGIN:VEVENT
 SUMMARY:Analiza produkcyjna etiud studenckich (Stanisław Krzemiński)
 DTSTART;TZID=Europe/Warsaw:20270119T154500
 DTEND;TZID=Europe/Warsaw:20270119T171500
-UID:202701191545-24773@szkolafilmowa
+UID:202701191545-59114@szkolafilmowa
 DESCRIPTION:Prowadzący: Stanisław Krzemiński
 LOCATION:K2
 END:VEVENT
@@ -664,7 +664,7 @@ BEGIN:VEVENT
 SUMMARY:Analiza produkcyjna etiud studenckich (Stanisław Krzemiński)
 DTSTART;TZID=Europe/Warsaw:20270119T140000
 DTEND;TZID=Europe/Warsaw:20270119T153000
-UID:202701191400-24773@szkolafilmowa
+UID:202701191400-59114@szkolafilmowa
 DESCRIPTION:Prowadzący: Stanisław Krzemiński
 LOCATION:K2
 END:VEVENT
@@ -672,7 +672,7 @@ BEGIN:VEVENT
 SUMMARY:Oblicza polskiego kina (dr Katarzyna Bałdyga)
 DTSTART;TZID=Europe/Warsaw:20270119T121500
 DTEND;TZID=Europe/Warsaw:20270119T134500
-UID:202701191215-8130@szkolafilmowa
+UID:202701191215-75824@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Katarzyna Bałdyga
 LOCATION:K1
 END:VEVENT
@@ -680,7 +680,7 @@ BEGIN:VEVENT
 SUMMARY:Oblicza polskiego kina (dr Katarzyna Bałdyga)
 DTSTART;TZID=Europe/Warsaw:20270119T103000
 DTEND;TZID=Europe/Warsaw:20270119T120000
-UID:202701191030-8130@szkolafilmowa
+UID:202701191030-75824@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Katarzyna Bałdyga
 LOCATION:K1
 END:VEVENT
@@ -688,7 +688,7 @@ BEGIN:VEVENT
 SUMMARY:Analiza techniczna filmu (dr hab. Katarzyna Taras)
 DTSTART;TZID=Europe/Warsaw:20270118T180000
 DTEND;TZID=Europe/Warsaw:20270118T193000
-UID:202701181800-79522@szkolafilmowa
+UID:202701181800-62561@szkolafilmowa
 DESCRIPTION:Prowadzący: dr hab. Katarzyna Taras
 LOCATION:K1
 END:VEVENT
@@ -696,7 +696,7 @@ BEGIN:VEVENT
 SUMMARY:Analiza techniczna filmu (dr hab. Katarzyna Taras)
 DTSTART;TZID=Europe/Warsaw:20270118T161500
 DTEND;TZID=Europe/Warsaw:20270118T174500
-UID:202701181615-79522@szkolafilmowa
+UID:202701181615-62561@szkolafilmowa
 DESCRIPTION:Prowadzący: dr hab. Katarzyna Taras
 LOCATION:K1
 END:VEVENT
@@ -704,7 +704,7 @@ BEGIN:VEVENT
 SUMMARY:Język angielski (mgr Beata Palka)
 DTSTART;TZID=Europe/Warsaw:20270122T090000
 DTEND;TZID=Europe/Warsaw:20270122T111500
-UID:202701220900-53021@szkolafilmowa
+UID:202701220900-13117@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Beata Palka
 LOCATION:W6
 END:VEVENT
@@ -712,7 +712,7 @@ BEGIN:VEVENT
 SUMMARY:Historia powszechna kina (dr Robert Wichrowski)
 DTSTART;TZID=Europe/Warsaw:20270118T141500
 DTEND;TZID=Europe/Warsaw:20270118T154500
-UID:202701181415-68206@szkolafilmowa
+UID:202701181415-86098@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Robert Wichrowski
 LOCATION:KINO
 END:VEVENT
@@ -720,7 +720,7 @@ BEGIN:VEVENT
 SUMMARY:Historia powszechna kina (dr Robert Wichrowski)
 DTSTART;TZID=Europe/Warsaw:20270118T123000
 DTEND;TZID=Europe/Warsaw:20270118T140000
-UID:202701181230-68206@szkolafilmowa
+UID:202701181230-86098@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Robert Wichrowski
 LOCATION:KINO
 END:VEVENT
@@ -729,7 +729,7 @@ SUMMARY:Planowanie produkcji: analiza kosztorysu i budżetu filmu (mgr Kam
  il Przełęcki)
 DTSTART;TZID=Europe/Warsaw:20270121T170000
 DTEND;TZID=Europe/Warsaw:20270121T183000
-UID:202701211700-71336@szkolafilmowa
+UID:202701211700-15920@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Kamil Przełęcki
 LOCATION:W9
 END:VEVENT
@@ -738,7 +738,7 @@ SUMMARY:Planowanie produkcji: analiza kosztorysu i budżetu filmu (mgr Kam
  il Przełęcki)
 DTSTART;TZID=Europe/Warsaw:20270121T184500
 DTEND;TZID=Europe/Warsaw:20270121T201500
-UID:202701211845-71336@szkolafilmowa
+UID:202701211845-15920@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Kamil Przełęcki
 LOCATION:W9
 END:VEVENT
@@ -747,7 +747,7 @@ SUMMARY:Planowanie produkcji: analiza kosztorysu i budżetu filmu (mgr Kam
  il Przełęcki)
 DTSTART;TZID=Europe/Warsaw:20270121T151500
 DTEND;TZID=Europe/Warsaw:20270121T164500
-UID:202701211515-71336@szkolafilmowa
+UID:202701211515-15920@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Kamil Przełęcki
 LOCATION:W9
 END:VEVENT
@@ -755,7 +755,7 @@ BEGIN:VEVENT
 SUMMARY:WF (lic. Łukasz Sip)
 DTSTART;TZID=Europe/Warsaw:20270125T170000
 DTEND;TZID=Europe/Warsaw:20270125T190000
-UID:202701251700-8296@szkolafilmowa
+UID:202701251700-90819@szkolafilmowa
 DESCRIPTION:Prowadzący: lic. Łukasz Sip
 LOCATION:P
 END:VEVENT
@@ -763,7 +763,7 @@ BEGIN:VEVENT
 SUMMARY:Analiza produkcyjna etiud studenckich (Stanisław Krzemiński)
 DTSTART;TZID=Europe/Warsaw:20270127T180000
 DTEND;TZID=Europe/Warsaw:20270127T193000
-UID:202701271800-24773@szkolafilmowa
+UID:202701271800-59114@szkolafilmowa
 DESCRIPTION:Prowadzący: Stanisław Krzemiński
 LOCATION:W9
 END:VEVENT
@@ -771,7 +771,7 @@ BEGIN:VEVENT
 SUMMARY:Analiza produkcyjna etiud studenckich (Stanisław Krzemiński)
 DTSTART;TZID=Europe/Warsaw:20270127T161500
 DTEND;TZID=Europe/Warsaw:20270127T174500
-UID:202701271615-24773@szkolafilmowa
+UID:202701271615-59114@szkolafilmowa
 DESCRIPTION:Prowadzący: Stanisław Krzemiński
 LOCATION:W9
 END:VEVENT
@@ -779,7 +779,7 @@ BEGIN:VEVENT
 SUMMARY:Analiza techniczna filmu (dr hab. Katarzyna Taras)
 DTSTART;TZID=Europe/Warsaw:20270125T113000
 DTEND;TZID=Europe/Warsaw:20270125T130000
-UID:202701251130-79522@szkolafilmowa
+UID:202701251130-62561@szkolafilmowa
 DESCRIPTION:Prowadzący: dr hab. Katarzyna Taras
 LOCATION:K1
 END:VEVENT
@@ -787,7 +787,7 @@ BEGIN:VEVENT
 SUMMARY:Analiza techniczna filmu (dr hab. Katarzyna Taras)
 DTSTART;TZID=Europe/Warsaw:20270126T100000
 DTEND;TZID=Europe/Warsaw:20270126T113000
-UID:202701261000-79522@szkolafilmowa
+UID:202701261000-62561@szkolafilmowa
 DESCRIPTION:Prowadzący: dr hab. Katarzyna Taras
 LOCATION:K1
 END:VEVENT
@@ -795,7 +795,7 @@ BEGIN:VEVENT
 SUMMARY:Analiza techniczna filmu (dr hab. Katarzyna Taras)
 DTSTART;TZID=Europe/Warsaw:20270125T131500
 DTEND;TZID=Europe/Warsaw:20270125T144500
-UID:202701251315-79522@szkolafilmowa
+UID:202701251315-62561@szkolafilmowa
 DESCRIPTION:Prowadzący: dr hab. Katarzyna Taras
 LOCATION:K1
 END:VEVENT
@@ -803,7 +803,7 @@ BEGIN:VEVENT
 SUMMARY:Analiza techniczna filmu (dr hab. Katarzyna Taras)
 DTSTART;TZID=Europe/Warsaw:20270126T114500
 DTEND;TZID=Europe/Warsaw:20270126T131500
-UID:202701261145-79522@szkolafilmowa
+UID:202701261145-62561@szkolafilmowa
 DESCRIPTION:Prowadzący: dr hab. Katarzyna Taras
 LOCATION:K1
 END:VEVENT
@@ -812,7 +812,7 @@ SUMMARY:Planowanie produkcji: analiza kosztorysu i budżetu filmu (mgr Kam
  il Przełęcki)
 DTSTART;TZID=Europe/Warsaw:20270127T143000
 DTEND;TZID=Europe/Warsaw:20270127T160000
-UID:202701271430-71336@szkolafilmowa
+UID:202701271430-15920@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Kamil Przełęcki
 LOCATION:W9
 END:VEVENT
@@ -821,7 +821,7 @@ SUMMARY:Planowanie produkcji: analiza kosztorysu i budżetu filmu (mgr Kam
  il Przełęcki)
 DTSTART;TZID=Europe/Warsaw:20270128T184500
 DTEND;TZID=Europe/Warsaw:20270128T201500
-UID:202701281845-71336@szkolafilmowa
+UID:202701281845-15920@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Kamil Przełęcki
 LOCATION:W9
 END:VEVENT
@@ -830,7 +830,7 @@ SUMMARY:Planowanie produkcji: analiza kosztorysu i budżetu filmu (mgr Kam
  il Przełęcki)
 DTSTART;TZID=Europe/Warsaw:20270128T170000
 DTEND;TZID=Europe/Warsaw:20270128T183000
-UID:202701281700-71336@szkolafilmowa
+UID:202701281700-15920@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Kamil Przełęcki
 LOCATION:W9
 END:VEVENT
@@ -839,7 +839,7 @@ SUMMARY:Planowanie produkcji: analiza kosztorysu i budżetu filmu (mgr Kam
  il Przełęcki)
 DTSTART;TZID=Europe/Warsaw:20270128T151500
 DTEND;TZID=Europe/Warsaw:20270128T164500
-UID:202701281515-71336@szkolafilmowa
+UID:202701281515-15920@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Kamil Przełęcki
 LOCATION:W9
 END:VEVENT
